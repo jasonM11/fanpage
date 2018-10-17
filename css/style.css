@@ -17,3 +17,30 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header {
+    display:flex;
+    justify-content:center;
+}
+.navbar {
+    display:flex;
+    justify-content:space-around;
+    
+    
+}
+.footer {
+    display:flex;
+    justify-content:flex-end;
+}
+.aboutMain {
+    display:flex;
+    justify-content:flex-end;
+}
+.gallery {
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+.thumbnail-image{
+    display:flex;
+    width:30%;
+ }
